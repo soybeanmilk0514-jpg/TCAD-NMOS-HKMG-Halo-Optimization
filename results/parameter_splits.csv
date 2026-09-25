@@ -1,0 +1,5 @@
+parameter,values_in_report,selected_value,notes
+Halo_Dose,"1e13;2e13;5e13 cm^-2",2e13 cm^-2,Moderate dose selected
+Halo_Energy,"overview: 10;15;20 / analysis slide: 10;20;30 keV",20 keV,Source slides contain a split-label discrepancy
+Halo_Tilt,"15;20;25 deg",25 deg,Lowest reported Ioff and highest reported Ion/Ioff among tilt comparison
+Spacer,"Nitride deposit 0.030; etch 0.035",fixed,Implemented but not independently swept
