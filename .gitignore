@@ -1,0 +1,11 @@
+# Sentaurus generated outputs
+*.tdr
+*.plt
+*.log
+*.out
+*.dat
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
