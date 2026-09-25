@@ -98,3 +98,7 @@ TCAD-NMOS-HKMG-Halo-Optimization/
 2026년 5–6월 반도체집적공정 교과목의 팀 프로젝트를 포트폴리오 형태로 재구성했습니다. 최종 수치와 조건은 제출 발표자료 및 코드 PDF에서 확인 가능한 내용만 사용했습니다.
 
 본 프로젝트의 parameter search는 정해진 split 조건을 비교한 결과이며, 모든 변수 조합을 탐색한 global optimization으로 해석하지 않습니다.
+
+---
+
+[← Back to Subin Joo's GitHub Portfolio](https://github.com/soybeanmilk0514-jpg)
